@@ -1,0 +1,7 @@
+C:\Users\305-11\Desktop\Шумкова Татьяна ПР-21\praktika14\praktika14\bin\Debug\praktika14.exe.config
+C:\Users\305-11\Desktop\Шумкова Татьяна ПР-21\praktika14\praktika14\bin\Debug\praktika14.exe
+C:\Users\305-11\Desktop\Шумкова Татьяна ПР-21\praktika14\praktika14\bin\Debug\praktika14.pdb
+C:\Users\305-11\Desktop\Шумкова Татьяна ПР-21\praktika14\praktika14\obj\Debug\praktika14.csproj.AssemblyReference.cache
+C:\Users\305-11\Desktop\Шумкова Татьяна ПР-21\praktika14\praktika14\obj\Debug\praktika14.csproj.CoreCompileInputs.cache
+C:\Users\305-11\Desktop\Шумкова Татьяна ПР-21\praktika14\praktika14\obj\Debug\praktika14.exe
+C:\Users\305-11\Desktop\Шумкова Татьяна ПР-21\praktika14\praktika14\obj\Debug\praktika14.pdb
